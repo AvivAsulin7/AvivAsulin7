@@ -7,11 +7,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 
-<h3 align="center">I'm a passionate computer science student and this is my page.</h3>
+<h3 align="center">I'm a passionate software developer and this is my page.</h3>
            
 ## 🙋‍♂️ About Me
  
-- 🎓 I’m currently 3rd year Computer Science student.
+- 🎓 Software Developer, looking for Full Stack Developer position.
  
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
  
